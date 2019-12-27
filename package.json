@@ -1,0 +1,42 @@
+{
+  "_from": "kk-vue-log",
+  "_id": "kk-vue-log@0.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-f/eqBCXRguvsFjDM67yA3cM+8+pr+cgpfZxmd+GC22DBon7pnGdoP5T1EdY0J7hF+mNPE1kUTgjQ65exA0/nzw==",
+  "_location": "/kk-vue-log",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "kk-vue-log",
+    "name": "kk-vue-log",
+    "escapedName": "kk-vue-log",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/kk-vue-log/-/kk-vue-log-0.1.2.tgz",
+  "_shasum": "f8f2b96326214caf67c254c5b65e43c1638eaaa1",
+  "_spec": "kk-vue-log",
+  "_where": "D:\\my\\node-dev\\client",
+  "author": {
+    "name": "wxw"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "deprecated": false,
+  "description": "vue埋点",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "kk-vue-log",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.2"
+}
